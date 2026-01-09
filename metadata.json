@@ -1,0 +1,7 @@
+{
+  "name": "PokeScanner Pro",
+  "description": "A professional-grade Pokémon card scanning and collection management app using Gemini AI for real-time text and image recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
